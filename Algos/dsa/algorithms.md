@@ -264,6 +264,9 @@ class Sorting {
     }
 }
 ```
+### 6. Heap Sort
+
+
 ## E. Basic math functions
 ```java
 public class MathOperations {

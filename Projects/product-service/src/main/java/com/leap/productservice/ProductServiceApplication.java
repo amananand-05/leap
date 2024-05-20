@@ -1,13 +1,13 @@
-package com.personal.realtime;
+package com.leap.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RealtimeApplication {
+public class ProductServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RealtimeApplication.class, args);
+		SpringApplication.run(ProductServiceApplication.class, args);
 	}
 
 }
